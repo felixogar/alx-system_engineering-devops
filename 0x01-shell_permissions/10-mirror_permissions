@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod ug+rw-x,o+r-wx hello
+chmod ug+rw-x,o+r-wx olleh
