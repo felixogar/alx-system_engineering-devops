@@ -1,2 +1,2 @@
 #!/bin/bash 
-#!/ova/onfu cnfgr - - | phg -s 1
+paste - - | cut -f 1
